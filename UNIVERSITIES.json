@@ -21,7 +21,7 @@
         "id": "imamu",
         "name": "جامعة الإمام محمد بن سعود الإسلامية",
         "image": "https://saudipedia.com/saudipedia/uploads/images/2023/09/12/61304.jpg",
-        "isActive": false 
+        "isActive": true 
     },
     {
         "id": "kau",

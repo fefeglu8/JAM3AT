@@ -87,7 +87,7 @@
         "id": "ut",
         "name": "جامعة تبوك",
         "image": "https://saudipedia.com/saudipedia/uploads/images/2023/08/03/60465.jpg",
-        "isActive": false 
+        "isActive": true 
     },
     {
         "id": "nu",

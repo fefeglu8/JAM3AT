@@ -13,7 +13,7 @@
   { "id": "health_informatics", "name": "معلوماتية صحية", "icon": "analytics-outline" },
   { "id": "health_food", "name": "علوم الأغذية والتغذية", "icon": "nutrition-outline" },
   { "id": "health_sterilization", "name": "تعقيم طبي", "icon": "shield-checkmark-outline" },
-  { "id": "health_public", "name": "مسار صحي", "icon": "people-outline" },
+  { "id": "health_health", "name": "مسار صحي", "icon": "people-outline" },
 
   { "id": "science_cs", "name": "علوم الحاسب", "icon": "laptop-outline" },
   { "id": "science_it", "name": "تقنية المعلومات", "icon": "laptop-outline" },

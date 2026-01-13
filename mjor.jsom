@@ -2,36 +2,36 @@
   {
     "id": "science_cs",
     "name": "علوم الحاسب",
-    "icon": "laptop-outline",
+    "icon": "laptop-outline"
   },
   {
     "id": "science_it",
     "name": "تقنية المعلومات",
-    "icon": "laptop-outline",
+    "icon": "laptop-outline"
   },
   {
     "id": "science_IS",
     "name": "نظم المعلومات",
-    "icon": "laptop-outline",
+    "icon": "laptop-outline"
   },
   {
     "id": "science_CE",
     "name": "هندسة الحاسب",
-    "icon": "laptop-outline",
+    "icon": "laptop-outline"
   },
   {
     "id": "science_SE",
     "name": "هندسة البرمجيات",
-    "icon": "laptop-outline",
+    "icon": "laptop-outline"
   },
   {
     "id": "eng-EE",
     "name": "الهندسة الكهربائية",
-    "icon": "construct-outline",
+    "icon": "construct-outline"
   },
   {
     "id": "eng-ChE",
     "name": "الهندسة الكيميائية",
-    "icon": "flask-outline",
+    "icon": "flask-outline"
   }
 ]

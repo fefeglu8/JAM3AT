@@ -7,7 +7,7 @@
   { "id": "health_lab", "name": "مختبرات طبية / علوم طبية تطبيقية", "icon": "beaker-outline" },
   { "id": "health_radiology", "name": "تقنية الأشعة / علوم الأشعة / فيزياء طبية", "icon": "scan-outline" },
   { "id": "health_anesthesia", "name": "تقنية تخدير", "icon": "pulse-outline" },
-  { "id": "health_resp", "name": "علاج تنفسي", "icon": "lungs-outline" },
+  { "id": "health_resp", "name": "علاج تنفسي", "icon": "pulse-outline" },
   { "id": "health_pt", "name": "علاج طبيعي", "icon": "walk-outline" },
   { "id": "health_public", "name": "صحة عامة", "icon": "people-outline" },
   { "id": "health_informatics", "name": "معلوماتية صحية", "icon": "analytics-outline" },
@@ -137,7 +137,7 @@
   { "id": "tvtc_refrigeration", "name": "التبريد والتكييف", "icon": "snow-outline" },
 
   { "id": "tvtc_cnc", "name": "تشغيل آلات CNC", "icon": "construct-outline" },
-  { "id": "tvtc_production", "name": "الإنتاج الصناعي", "icon": "factory-outline" },
+  { "id": "tvtc_production", "name": "الإنتاج الصناعي", "icon": "construct-outline" },
 
   { "id": "tvtc_it_support", "name": "تقنية الدعم الفني", "icon": "headset-outline" },
   { "id": "tvtc_programming", "name": "برمجة تطبيقات", "icon": "code-outline" },

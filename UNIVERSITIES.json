@@ -15,7 +15,7 @@
         "id": "iu",
         "name": "الجامعة الإسلامية",
         "image": "https://saudipedia.com/saudipedia/uploads/images/2023/08/21/62035.jpg",
-        "isActive": false 
+        "isActive": true 
     },
     {
         "id": "imamu",

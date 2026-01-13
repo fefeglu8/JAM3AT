@@ -23,6 +23,15 @@
 
     "events": [
       {
+        "event_id": "fouefndation_day",
+        "semester_id": "ksu_2026_2",
+        "title": "إجازة يوم",
+        "start_g": "2026-01-13",
+        "end_g": "2026-01-14",
+        "start_h": "1447-09-05",
+        "end_h": "1447-09-06"
+      },
+      {
         "event_id": "foundation_day",
         "semester_id": "ksu_2026_2",
         "title": "إجازة يوم التأسيس",

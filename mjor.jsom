@@ -67,7 +67,6 @@
   { "id": "tourism", "name": "سياحة وفندقة", "icon": "bed-outline" },
 
   { "id": "general_track", "name": "مسار عام", "icon": "layers-outline" },
-  /* ===== تخصصات جامعات السعودية (غير مكررة) ===== */
 
   { "id": "health_midwifery", "name": "قبالة", "icon": "woman-outline" },
   { "id": "health_emergency", "name": "طب طوارئ", "icon": "alert-circle-outline" },
@@ -117,9 +116,3 @@
   { "id": "tvtc_safety", "name": "السلامة المهنية", "icon": "warning-outline" },
   { "id": "tvtc_security", "name": "الأمن الصناعي", "icon": "shield-outline" }
 ]
-
-
-
-
-
-

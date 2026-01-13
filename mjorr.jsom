@@ -48,6 +48,42 @@
 
   { "id": "law", "name": "قانون / حقوق / الشريعة والقانون", "icon": "scale-outline" },
   { "id": "islamic", "name": "شريعة / أصول الدين / دراسات إسلامية", "icon": "book-outline" },
+  { "id": "health_speech", "name": "علاج النطق والتخاطب", "icon": "chatbox-ellipses-outline" },
+  { "id": "health_optometry", "name": "بصريات", "icon": "eye-outline" },
+  { "id": "health_audiology", "name": "سمعيات", "icon": "ear-outline" },
+  { "id": "health_health_admin", "name": "إدارة صحية", "icon": "clipboard-outline" },
+  { "id": "health_home_care", "name": "الرعاية الصحية المنزلية", "icon": "home-outline" },
+
+  { "id": "science_astronomy", "name": "فلك وعلوم الفضاء", "icon": "telescope-outline" },
+  { "id": "science_oceanography", "name": "علوم البحار", "icon": "boat-outline" },
+  { "id": "science_physics_medical", "name": "الفيزياء الطبية", "icon": "pulse-outline" },
+
+  { "id": "eng_biomedical", "name": "الهندسة الطبية الحيوية", "icon": "medkit-outline" },
+  { "id": "eng_environmental", "name": "الهندسة البيئية", "icon": "leaf-outline" },
+  { "id": "eng_safety", "name": "هندسة السلامة", "icon": "warning-outline" },
+
+  { "id": "business_realestate", "name": "إدارة عقارية", "icon": "home-outline" },
+  { "id": "business_entrepreneurship", "name": "ريادة أعمال", "icon": "rocket-outline" },
+  { "id": "business_project", "name": "إدارة مشاريع", "icon": "checkbox-outline" },
+
+  { "id": "arts_linguistics", "name": "لغويات", "icon": "chatbubble-outline" },
+  { "id": "arts_archaeology", "name": "آثار", "icon": "trail-sign-outline" },
+  { "id": "arts_islamic_history", "name": "تاريخ إسلامي", "icon": "book-outline" },
+
+  { "id": "edu_special", "name": "تربية خاصة", "icon": "accessibility-outline" },
+  { "id": "edu_curriculum", "name": "مناهج وطرق تدريس", "icon": "reader-outline" },
+  { "id": "tvtc_power_generation", "name": "تقنية توليد الطاقة", "icon": "flash-outline" },
+  { "id": "tvtc_renewable_energy", "name": "تقنية الطاقة المتجددة", "icon": "sunny-outline" },
+  { "id": "tvtc_industrial_control", "name": "تقنية التحكم الصناعي", "icon": "options-outline" },
+
+  { "id": "tvtc_logistics", "name": "الخدمات اللوجستية", "icon": "trail-sign-outline" },
+  { "id": "tvtc_warehousing", "name": "إدارة المستودعات", "icon": "archive-outline" },
+
+  { "id": "tvtc_quality", "name": "تقنية الجودة", "icon": "checkmark-done-outline" },
+  { "id": "tvtc_inspection", "name": "الفحص الفني", "icon": "search-outline" },
+
+  { "id": "tvtc_fashion_production", "name": "إنتاج الأزياء", "icon": "cut-outline" },
+  { "id": "tvtc_printing", "name": "تقنية الطباعة", "icon": "print-outline" }
 
   { "id": "edu_general", "name": "تربية", "icon": "school-outline" },
   { "id": "edu_child", "name": "طفولة مبكرة / رياض الأطفال", "icon": "balloon-outline" },

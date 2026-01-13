@@ -83,7 +83,7 @@
   { "id": "tvtc_inspection", "name": "الفحص الفني", "icon": "search-outline" },
 
   { "id": "tvtc_fashion_production", "name": "إنتاج الأزياء", "icon": "cut-outline" },
-  { "id": "tvtc_printing", "name": "تقنية الطباعة", "icon": "print-outline" }
+  { "id": "tvtc_printing", "name": "تقنية الطباعة", "icon": "print-outline" },
 
   { "id": "edu_general", "name": "تربية", "icon": "school-outline" },
   { "id": "edu_child", "name": "طفولة مبكرة / رياض الأطفال", "icon": "balloon-outline" },

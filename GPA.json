@@ -1,6 +1,20 @@
 {
   "ksu": {
     "gpa_system": 5,
+
+    "passing_grades": [
+      "A+",
+      "A",
+      "B+",
+      "B",
+      "C+",
+      "C",
+      "D+",
+      "D",
+      "D2",
+      "NP"
+    ],
+
     "grades": [
       { "label_ar": "ممتاز مرتفع", "symbol_en": "A+", "symbol_ar": "+أ", "weight": 5.0 },
       { "label_ar": "ممتاز", "symbol_en": "A", "symbol_ar": "أ", "weight": 4.75 },
@@ -14,11 +28,10 @@
       { "label_ar": "مقبول مرتفع", "symbol_en": "D+", "symbol_ar": "+د", "weight": 2.5 },
       { "label_ar": "مقبول", "symbol_en": "D", "symbol_ar": "د", "weight": 2.0 },
 
-      { "label_ar": "راسب", "symbol_en": "F", "symbol_ar": "هـ", "weight": 1.0 },
-
-      { "label_ar": "محروم", "symbol_en": "DN", "symbol_ar": "ح", "weight": 1.0 },
-
       { "label_ar": "ناجح في الدور الثاني (بتقدير مقبول)", "symbol_en": "D2", "symbol_ar": "د2", "weight": 2.0 },
+
+      { "label_ar": "راسب", "symbol_en": "F", "symbol_ar": "هـ", "weight": 1.0 },
+      { "label_ar": "محروم", "symbol_en": "DN", "symbol_ar": "ح", "weight": 1.0 },
 
       { "label_ar": "مستمر", "symbol_en": "IP", "symbol_ar": "م", "weight": null },
       { "label_ar": "غير مكتمل", "symbol_en": "IC", "symbol_ar": "ل", "weight": null },

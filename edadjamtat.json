@@ -86,5 +86,568 @@
         "end_h": "1448-03-10"
       }
     ]
+  },
+  
+  "uqu": {
+    "semesters": [
+      {
+        "semester_id": "uqu_2026_2",
+        "label": "الفصل الدراسي الثاني",
+        "start_date": "2026-01-18",
+        "end_date": "2026-06-25"
+      }
+    ],
+    "events": [
+      {
+        "event_id": "uqu_semester_start",
+        "semester_id": "uqu_2026_2",
+        "title": "بداية الدراسة للفصل الدراسي الثاني",
+        "start_g": "2026-01-18",
+        "end_g": "2026-01-18",
+        "start_h": "1447-07-29",
+        "end_h": "1447-07-29"
+      },
+      {
+        "event_id": "uqu_study_delay",
+        "semester_id": "uqu_2026_2",
+        "title": "تأجيل الدراسة",
+        "start_g": "2026-01-18",
+        "end_g": "2026-01-24",
+        "start_h": "1447-07-29",
+        "end_h": "1447-08-05"
+      },
+      {
+        "event_id": "uqu_withdraw_period",
+        "semester_id": "uqu_2026_2",
+        "title": "الاعتذار عن الدراسة",
+        "start_g": "2026-01-25",
+        "end_g": "2026-04-18",
+        "start_h": "1447-08-06",
+        "end_h": "1447-11-01"
+      },
+      {
+        "event_id": "uqu_foundation_day",
+        "semester_id": "uqu_2026_2",
+        "title": "إجازة يوم التأسيس",
+        "start_g": "2026-02-22",
+        "end_g": "2026-02-22",
+        "start_h": "1447-09-05",
+        "end_h": "1447-09-05"
+      },
+      {
+        "event_id": "uqu_eid_fitr",
+        "semester_id": "uqu_2026_2",
+        "title": "جازة عيد الفطر تبدا بنهاية يوم الخميس",
+        "start_g": "2026-03-05",
+        "end_g": "2026-03-28",
+        "start_h": "1447-09-16",
+        "end_h": "1447-10-09"
+      },
+      {
+        "event_id": "uqu_midterms",
+        "semester_id": "uqu_2026_2",
+        "title": "الاختبارات النصفية",
+        "start_g": "2026-04-05",
+        "end_g": "2026-04-16",
+        "start_h": "1447-10-17",
+        "end_h": "1447-10-28"
+      },
+      {
+        "event_id": "uqu_transfer_request",
+        "semester_id": "uqu_2026_2",
+        "title": "طلب التحويل بين الكليات والأقسام",
+        "start_g": "2026-04-05",
+        "end_g": "2026-04-18",
+        "start_h": "1447-10-17",
+        "end_h": "1447-11-01"
+      },
+      {
+        "event_id": "uqu_course_withdraw",
+        "semester_id": "uqu_2026_2",
+        "title": "الانسحاب من مقرر دراسي",
+        "start_g": "2026-04-19",
+        "end_g": "2026-05-02",
+        "start_h": "1447-11-02",
+        "end_h": "1447-11-15"
+      },
+      {
+        "event_id": "uqu_level_preferences",
+        "semester_id": "uqu_2026_2",
+        "title": "إدخال رغبات التسكين لطلبة برامج السنة الأولى والسنة التأهيلية",
+        "start_g": "2026-05-03",
+        "end_g": "2026-05-09",
+        "start_h": "1447-11-16",
+        "end_h": "1447-11-22"
+      },
+      {
+        "event_id": "uqu_eid_adha",
+        "semester_id": "uqu_2026_2",
+        "title": "إجازة عيد الأضحى",
+        "start_g": "2026-05-14",
+        "end_g": "2026-06-01",
+        "start_h": "1447-11-27",
+        "end_h": "1447-12-15"
+      },
+      {
+        "event_id": "uqu_summer_reenroll",
+        "semester_id": "uqu_2026_2",
+        "title": "تقديم طلب إعادة القيد للفصل الدراسي الصيفي (إن وجد)",
+        "start_g": "2026-06-07",
+        "end_g": "2026-06-30",
+        "start_h": "1447-12-21",
+        "end_h": "1448-01-15"
+      },
+      {
+  "event_id": "uqu_general_practical_exams",
+  "semester_id": "uqu_2026_2",
+  "title": "اختبارات المتطلبات العامة والمقررات العملية مع استمرار الدراسة",
+  "start_g": "2026-06-07",
+  "end_g": "2026-06-11",
+  "start_h": "1447-12-21",
+  "end_h": "1447-12-25"
+},
+      {
+        "event_id": "uqu_final_exams",
+        "semester_id": "uqu_2026_2",
+        "title": "الاختبارات النهائية",
+        "start_g": "2026-06-14",
+        "end_g": "2026-06-25",
+        "start_h": "1447-12-28",
+        "end_h": "1448-01-10"
+      },
+      {
+        "event_id": "uqu_year_end",
+        "semester_id": "uqu_2026_2",
+        "title": "إجازة نهاية العام الدراسي",
+        "start_g": "2026-06-25",
+        "end_g": "2026-06-25",
+        "start_h": "1448-01-10",
+        "end_h": "1448-01-10"
+      }
+    ]
+  },
+   "imamu": {
+    "semesters": [
+      {
+        "semester_id": "imamu_2026_2",
+        "label": "الفصل الدراسي الثاني",
+        "start_date": "2026-01-18",
+        "end_date": "2026-06-18"
+      }
+    ],
+    "events": [
+      {
+        "event_id": "imamu_course_registration",
+        "semester_id": "imamu_2026_2",
+        "title": "تسجيل المقررات (عبر الخدمات الذاتية)",
+        "start_g": "2025-12-21",
+        "end_g": "2025-12-27",
+        "start_h": "1447-07-01",
+        "end_h": "1447-07-07"
+      },
+      {
+        "event_id": "imamu_reenroll_external",
+        "semester_id": "imamu_2026_2",
+        "title": "إعادة القيد للمنتظمين غير المستجدين (عبر الخدمات الذاتية)",
+        "start_g": "2025-12-21",
+        "end_g": "2026-01-17",
+        "start_h": "1447-07-01",
+        "end_h": "1447-07-28"
+      },
+      {
+        "event_id": "imamu_internal_transfer",
+        "semester_id": "imamu_2026_2",
+        "title": "التحويل بين الكليات والأقسام (عبر الخدمات الذاتية)",
+        "start_g": "2025-12-28",
+        "end_g": "2026-01-08",
+        "start_h": "1447-07-08",
+        "end_h": "1447-07-19"
+      },
+      {
+        "event_id": "imamu_grad_delay",
+        "semester_id": "imamu_2026_2",
+        "title": "تأجيل القبول (في برامج الدراسات العليا)",
+        "start_g": "2026-01-04",
+        "end_g": "2026-01-17",
+        "start_h": "1447-07-15",
+        "end_h": "1447-07-28"
+      },
+      {
+        "event_id": "imamu_additional_registration",
+        "semester_id": "imamu_2026_2",
+        "title": "التسجيل الإلحاقي لمعالجة الحالات المتعثرة",
+        "start_g": "2026-01-15",
+        "end_g": "2026-01-17",
+        "start_h": "1447-07-26",
+        "end_h": "1447-07-28"
+      },
+      {
+        "event_id": "imamu_semester_start",
+        "semester_id": "imamu_2026_2",
+        "title": "بداية الدراسة",
+        "start_g": "2026-01-18",
+        "end_g": "2026-01-18",
+        "start_h": "1447-07-29",
+        "end_h": "1447-07-29"
+      },
+      {
+        "event_id": "imamu_placement_exams",
+        "semester_id": "imamu_2026_2",
+        "title": "الاختبارات البديلة والتكميلية عن الفصل الدراسي الأول",
+        "start_g": "2026-01-18",
+        "end_g": "2026-01-22",
+        "start_h": "1447-07-29",
+        "end_h": "1447-08-03"
+      },
+      {
+        "event_id": "imamu_study_postpone",
+        "semester_id": "imamu_2026_2",
+        "title": "التأجيل (عبر الخدمات الذاتية)",
+        "start_g": "2026-01-11",
+        "end_g": "2026-01-24",
+        "start_h": "1447-07-22",
+        "end_h": "1447-08-05"
+      },
+      {
+        "event_id": "imamu_grad_semester_postpone",
+        "semester_id": "imamu_2026_2",
+        "title": "تأجيل الفصل الدراسي (في برامج الدراسات العليا)",
+        "start_g": "2026-01-11",
+        "end_g": "2026-01-24",
+        "start_h": "1447-07-22",
+        "end_h": "1447-08-05"
+      },
+      {
+        "event_id": "imamu_withdraw_courses",
+        "semester_id": "imamu_2026_2",
+        "title": "الاعتذار عن الفصل والانسحاب من مقرر أو مقررين",
+        "start_g": "2026-01-25",
+        "end_g": "2026-05-21",
+        "start_h": "1447-08-06",
+        "end_h": "1447-12-04"
+      },
+      {
+        "event_id": "imamu_grad_semester_cancel",
+        "semester_id": "imamu_2026_2",
+        "title": "حذف الفصل الدراسي (في برامج الدراسات العليا)",
+        "start_g": "2026-01-25",
+        "end_g": "2026-06-07",
+        "start_h": "1447-08-06",
+        "end_h": "1447-12-21"
+      },
+      {
+        "event_id": "imamu_foundation_day",
+        "semester_id": "imamu_2026_2",
+        "title": "إجازة يوم التأسيس",
+        "start_g": "2026-02-22",
+        "end_g": "2026-02-22",
+        "start_h": "1447-09-05",
+        "end_h": "1447-09-05"
+      },
+      {
+        "event_id": "imamu_eid_fitr_start",
+        "semester_id": "imamu_2026_2",
+        "title": "بداية إجازة عيد الفطر بنهاية دوام يوم الخميس",
+        "start_g": "2026-03-05",
+        "end_g": "2026-03-05",
+        "start_h": "1447-09-16",
+        "end_h": "1447-09-16"
+      },
+      {
+        "event_id": "imamu_study_after_eid_fitr",
+        "semester_id": "imamu_2026_2",
+        "title": "بداية الدراسة بعد إجازة عيد الفطر",
+        "start_g": "2026-03-29",
+        "end_g": "2026-03-29",
+        "start_h": "1447-10-10",
+        "end_h": "1447-10-10"
+      },
+      {
+        "event_id": "imamu_eid_adha_start",
+        "semester_id": "imamu_2026_2",
+        "title": "بداية إجازة عيد الأضحى بنهاية دوام يوم الخميس",
+        "start_g": "2026-05-21",
+        "end_g": "2026-05-21",
+        "start_h": "1447-12-04",
+        "end_h": "1447-12-04"
+      },
+      {
+        "event_id": "imamu_study_after_eid_adha",
+        "semester_id": "imamu_2026_2",
+        "title": "بداية الدراسة بعد إجازة عيد الأضحى",
+        "start_g": "2026-06-02",
+        "end_g": "2026-06-02",
+        "start_h": "1447-12-16",
+        "end_h": "1447-12-16"
+      },
+      {
+        "event_id": "imamu_final_exams_start",
+        "semester_id": "imamu_2026_2",
+        "title": "بداية الاختبارات النهائية",
+        "start_g": "2026-06-09",
+        "end_g": "2026-06-09",
+        "start_h": "1447-12-23",
+        "end_h": "1447-12-23"
+      },
+      {
+        "event_id": "imamu_year_end_holiday",
+        "semester_id": "imamu_2026_2",
+        "title": "بداية إجازة نهاية العام الدراسي (للطلاب وأعضاء هيئة التدريس) بنهاية دوام يوم الخميس",
+        "start_g": "2026-06-18",
+        "end_g": "2026-06-18",
+        "start_h": "1448-01-03",
+        "end_h": "1448-01-03"
+      }
+    ]
+  },
+   "kfu": {
+    "semesters": [
+      {
+        "semester_id": "kfu_2026_2",
+        "label": "الفصل الدراسي الثاني",
+        "start_date": "2026-01-18",
+        "end_date": "2026-06-18"
+      }
+    ],
+    "events": [
+      {
+        "event_id": "kfu_return_request_start",
+        "semester_id": "kfu_2026_2",
+        "title": "بداية تقديم طلب العودة للدراسة للطلبة المؤجلين أو المعتذرين أو المنقطعين",
+        "start_g": "2025-12-28",
+        "end_g": "2026-01-15",
+        "start_h": "1447-07-08",
+        "end_h": "1447-07-26"
+      },
+      {
+        "event_id": "kfu_postpone_major_extra_start",
+        "semester_id": "kfu_2026_2",
+        "title": "بداية تقديم طلب تأجيل الدراسة وتغيير التخصص والفرص الإضافية (3 إنذارات)",
+        "start_g": "2026-01-04",
+        "end_g": "2026-01-15",
+        "start_h": "1447-07-15",
+        "end_h": "1447-07-26"
+      },
+      {
+        "event_id": "kfu_registration_period",
+        "semester_id": "kfu_2026_2",
+        "title": "فترة تسجيل المقررات وتقديم طلب الإعفاء من الرسوم (الضمان الاجتماعي)",
+        "start_g": "2026-01-11",
+        "end_g": "2026-01-15",
+        "start_h": "1447-07-22",
+        "end_h": "1447-07-26"
+      },
+      {
+        "event_id": "kfu_semester_start",
+        "semester_id": "kfu_2026_2",
+        "title": "بداية الدراسة للفصل الدراسي الثاني",
+        "start_g": "2026-01-18",
+        "end_g": "2026-01-18",
+        "start_h": "1447-07-29",
+        "end_h": "1447-07-29"
+      },
+      {
+        "event_id": "kfu_exam_centers_and_withdraw_100",
+        "semester_id": "kfu_2026_2",
+        "title": "اختيار مراكز الاختبارات النهائية والانسحاب أو الاعتذار مع استرداد 100% من الرسوم",
+        "start_g": "2026-01-18",
+        "end_g": "2026-02-05",
+        "start_h": "1447-07-29",
+        "end_h": "1447-08-17"
+      },
+      {
+        "event_id": "kfu_fees_and_withdraw_50_start",
+        "semester_id": "kfu_2026_2",
+        "title": "بداية سداد الرسوم والانسحاب أو الاعتذار مع استرداد 50% من الرسوم",
+        "start_g": "2026-02-08",
+        "end_g": "2026-02-18",
+        "start_h": "1447-08-20",
+        "end_h": "1447-09-01"
+      },
+      {
+        "event_id": "kfu_fees_deadline",
+        "semester_id": "kfu_2026_2",
+        "title": "آخر موعد لسداد الرسوم الدراسية",
+        "start_g": "2026-02-15",
+        "end_g": "2026-02-15",
+        "start_h": "1447-08-27",
+        "end_h": "1447-08-27"
+      },
+      {
+        "event_id": "kfu_system_block_and_course_withdraw",
+        "semester_id": "kfu_2026_2",
+        "title": "منع الدخول على الأنظمة وبداية الانسحاب من مقرر أو أكثر بدون استرداد الرسوم",
+        "start_g": "2026-02-16",
+        "end_g": "2026-02-24",
+        "start_h": "1447-08-28",
+        "end_h": "1447-09-07"
+      },
+      {
+        "event_id": "kfu_foundation_day",
+        "semester_id": "kfu_2026_2",
+        "title": "إجازة يوم التأسيس",
+        "start_g": "2026-02-22",
+        "end_g": "2026-02-22",
+        "start_h": "1447-09-05",
+        "end_h": "1447-09-05"
+      },
+      {
+        "event_id": "kfu_no_refund_withdraw_start",
+        "semester_id": "kfu_2026_2",
+        "title": "بداية الانسحاب أو الاعتذار بدون استرداد الرسوم",
+        "start_g": "2026-02-24",
+        "end_g": "2026-04-19",
+        "start_h": "1447-09-07",
+        "end_h": "1447-11-02"
+      },
+      {
+        "event_id": "kfu_unpaid_courses_removed_and_graduates_forms",
+        "semester_id": "kfu_2026_2",
+        "title": "حذف مقررات غير المسددين وآخر موعد لتعبئة نماذج الخريجين",
+        "start_g": "2026-03-05",
+        "end_g": "2026-03-05",
+        "start_h": "1447-09-16",
+        "end_h": "1447-09-16"
+      },
+      {
+        "event_id": "kfu_eid_fitr_start",
+        "semester_id": "kfu_2026_2",
+        "title": "بداية إجازة عيد الفطر المبارك",
+        "start_g": "2026-03-06",
+        "end_g": "2026-03-06",
+        "start_h": "1447-09-17",
+        "end_h": "1447-09-17"
+      },
+      {
+        "event_id": "kfu_study_resume_after_eid",
+        "semester_id": "kfu_2026_2",
+        "title": "استئناف الدراسة بعد إجازة عيد الفطر",
+        "start_g": "2026-03-29",
+        "end_g": "2026-03-29",
+        "start_h": "1447-10-10",
+        "end_h": "1447-10-10"
+      },
+      {
+        "event_id": "kfu_coursework_deadline",
+        "semester_id": "kfu_2026_2",
+        "title": "آخر موعد لرصد وتسجيل الأعمال الفصلية",
+        "start_g": "2026-04-19",
+        "end_g": "2026-04-19",
+        "start_h": "1447-11-02",
+        "end_h": "1447-11-02"
+      }
+    ]
+  },
+    "kku": {
+    "semesters": [
+      {
+        "semester_id": "kku_2026_2",
+        "label": "الفصل الدراسي الثاني",
+        "start_date": "2026-01-18",
+        "end_date": "2026-06-18"
+      }
+    ],
+    "events": [
+      {
+        "event_id": "kku_postpone_start",
+        "semester_id": "kku_2026_2",
+        "title": "بداية فترة تأجيل الفصل الدراسي",
+        "start_g": "2026-01-11",
+        "end_g": "2026-01-11",
+        "start_h": "1447-07-22",
+        "end_h": "1447-07-22"
+      },
+      {
+        "event_id": "kku_semester_start",
+        "semester_id": "kku_2026_2",
+        "title": "بداية الدراسة للفصل الدراسي الثاني",
+        "start_g": "2026-01-18",
+        "end_g": "2026-01-18",
+        "start_h": "1447-07-29",
+        "end_h": "1447-07-29"
+      },
+      {
+        "event_id": "kku_postpone_end",
+        "semester_id": "kku_2026_2",
+        "title": "نهاية فترة تأجيل الفصل الدراسي",
+        "start_g": "2026-01-24",
+        "end_g": "2026-01-24",
+        "start_h": "1447-08-05",
+        "end_h": "1447-08-05"
+      },
+      {
+        "event_id": "kku_withdraw_start",
+        "semester_id": "kku_2026_2",
+        "title": "بداية فترة الاعتذار عن مقرر أو فصل دراسي",
+        "start_g": "2026-02-01",
+        "end_g": "2026-02-01",
+        "start_h": "1447-08-13",
+        "end_h": "1447-08-13"
+      },
+      {
+        "event_id": "kku_foundation_day",
+        "semester_id": "kku_2026_2",
+        "title": "إجازة يوم التأسيس",
+        "start_g": "2026-02-22",
+        "end_g": "2026-02-22",
+        "start_h": "1447-09-05",
+        "end_h": "1447-09-05"
+      },
+      {
+        "event_id": "kku_eid_fitr_start",
+        "semester_id": "kku_2026_2",
+        "title": "بداية إجازة عيد الفطر بنهاية دوام الخميس",
+        "start_g": "2026-03-05",
+        "end_g": "2026-03-05",
+        "start_h": "1447-09-16",
+        "end_h": "1447-09-16"
+      },
+      {
+        "event_id": "kku_study_resume_after_eid_fitr",
+        "semester_id": "kku_2026_2",
+        "title": "استئناف الدراسة بعد إجازة عيد الفطر",
+        "start_g": "2026-03-29",
+        "end_g": "2026-03-29",
+        "start_h": "1447-10-10",
+        "end_h": "1447-10-10"
+      },
+      {
+        "event_id": "kku_withdraw_end",
+        "semester_id": "kku_2026_2",
+        "title": "نهاية فترة الاعتذار عن مقرر أو فصل دراسي",
+        "start_g": "2026-05-16",
+        "end_g": "2026-05-16",
+        "start_h": "1447-11-29",
+        "end_h": "1447-11-29"
+      },
+      {
+        "event_id": "kku_eid_adha_start",
+        "semester_id": "kku_2026_2",
+        "title": "بداية إجازة عيد الأضحى بنهاية دوام الخميس",
+        "start_g": "2026-05-21",
+        "end_g": "2026-05-21",
+        "start_h": "1447-12-04",
+        "end_h": "1447-12-04"
+      },
+      {
+        "event_id": "kku_study_resume_and_finals_start",
+        "semester_id": "kku_2026_2",
+        "title": "استئناف الدراسة وبداية الاختبارات النهائية",
+        "start_g": "2026-06-02",
+        "end_g": "2026-06-02",
+        "start_h": "1447-12-16",
+        "end_h": "1447-12-16"
+      },
+      {
+        "event_id": "kku_year_end_holiday",
+        "semester_id": "kku_2026_2",
+        "title": "بداية إجازة نهاية العام الدراسي",
+        "start_g": "2026-06-18",
+        "end_g": "2026-06-18",
+        "start_h": "1448-01-03",
+        "end_h": "1448-01-03"
+      }
+    ]
   }
+  
 }

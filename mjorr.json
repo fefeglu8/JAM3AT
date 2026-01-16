@@ -109,5 +109,7 @@
   { "id": "tourism_hospitality", "name": "سياحة وفندقة", "icon": "bed-outline" },
 
    { "id": "science_track", "name": "مسار علمي", "icon": "library-outline" },
-  { "id": "general_track", "name": "مسار عام", "icon": "layers-outline" }
+  { "id": "general_track", "name": "مسار عام", "icon": "layers-outline" },
+  { "id": "botany", "name": "علم النبات", "icon": "leaf-outline" }
+
 ]

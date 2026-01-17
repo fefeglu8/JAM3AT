@@ -47,6 +47,12 @@
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzfOFwvil481wNb_HlrtuMp5IvBuiKvs7vhA&s",
         "isActive": true 
     },
+       {
+        "id": "kfupm",
+        "name": "جامعة الملك فهد",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/KFUPM_seal.png",
+        "isActive": true 
+    },
     {
         "id": "qu",
         "name": "جامعة القصيم",

@@ -2,7 +2,7 @@
     {
         "id": "ksu",
         "name": "جامعة الملك سعود",
-        "image": "https://saudipedia.com/saudipedia/uploads/images/2023/08/23/thumbs/600x600/59857.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ15hzX38CVLmoKD7AWizPpZ5WQ2hCiu73Rw&s",
         "isActive": true
     },
     {
@@ -14,13 +14,13 @@
     {
         "id": "iu",
         "name": "الجامعة الإسلامية",
-        "image": "https://saudipedia.com/saudipedia/uploads/images/2023/08/21/62035.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkO9MGb-hroX4t9PENExm2-dgosolxuyeNsQ&s",
         "isActive": true 
     },
     {
         "id": "imamu",
         "name": "جامعة الإمام محمد بن سعود الإسلامية",
-        "image": "https://saudipedia.com/saudipedia/uploads/images/2023/09/12/61304.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXEOA8ogcBfU2Uz2WL4zRji-sk1ZKqbwiV6Q&s",
         "isActive": true 
     },
       {
@@ -32,13 +32,13 @@
     {
         "id": "kau",
         "name": "جامعة الملك عبدالعزيز",
-        "image": "https://saudipedia.com/saudipedia/uploads/images/2023/08/28/thumbs/600x600/59859.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/ar/archive/d/d9/20231125191228%21Kaau_logo.jpg",
         "isActive": true 
     },
     {
         "id": "kfu",
         "name": "جامعة الملك فيصل",
-        "image": "https://saudipedia.com/saudipedia/uploads/images/2023/07/22/thumbs/600x600/59980.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_H87CGJ6P-_iYUV3riL8zO1qnQktPGwO0OQ&s",
         "isActive": true 
     },
     {
@@ -56,13 +56,13 @@
     {
         "id": "qu",
         "name": "جامعة القصيم",
-        "image": "https://saudipedia.com/saudipedia/uploads/images/2023/07/31/59851.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIdtgRn_dlspJWoahbeF-jLPwFf9iJrWqDsQ&s",
         "isActive": true 
     },
     {
         "id": "tau",
         "name": "جامعة طيبة",
-        "image": "https://saudipedia.com/saudipedia/uploads/images/2023/07/17/59887.jpg",
+        "image": "https://i0.wp.com/ksalogo.com/wp-content/uploads/2025/06/Taibah-University.png?fit=1000%2C1000&ssl=1",
         "isActive": true 
     },
     {
@@ -74,31 +74,31 @@
     {
         "id": "uoh",
         "name": "جامعة حائل",
-        "image": "https://saudipedia.com/saudipedia/uploads/images/2023/08/20/thumbs/400x400/61326.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFiqlses5XpPgNCXlJlKS_NADtzcxcBHzCyA&s",
         "isActive": true 
     },
     {
         "id": "jazanu",
         "name": "جامعة جازان",
-        "image": "https://saudipedia.com/saudipedia/uploads/images/2023/07/27/59894.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAzN8fq84HFB2FKASEvrRjNXoFbyYpATeK4A&s",
         "isActive": true 
     },
     {
         "id": "ju",
         "name": "جامعة الجوف",
-        "image": "https://saudipedia.com/saudipedia/uploads/images/2023/07/31/59850.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn1JeMo3EdXARqCDM-AoBhOyn_wvuByjZC4g&s",
         "isActive": true 
     },
     {
         "id": "bu",
         "name": "جامعة الباحة",
-        "image": "https://saudipedia.com/saudipedia/uploads/images/2023/07/22/59849.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJIy8MHMZx6AD8MJJ-QfVmHzkTUip5C4mtSQ&s",
         "isActive": true 
     },
     {
         "id": "ut",
         "name": "جامعة تبوك",
-        "image": "https://saudipedia.com/saudipedia/uploads/images/2023/08/03/60465.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8981GxPTN_HU_e4AVjLGswix98d7MOirMKA&s",
         "isActive": true 
     },
     {
@@ -110,13 +110,13 @@
     {
         "id": "nbu",
         "name": "جامعة الحدود الشمالية",
-        "image": "https://saudipedia.com/saudipedia/uploads/images/2023/07/20/59978.jpg",
+        "image": "https://www.nbu.edu.sa/sites/default/files/2023-12/WhatsApp%20Image%202023-12-13%20at%2010.19.04%20AM.jpeg",
         "isActive": true 
     },
     {
         "id": "pnu",
         "name": "جامعة الأميرة نورة بنت عبدالرحمن",
-        "image": "https://saudipedia.com/saudipedia/uploads/images/2023/07/30/59846.jpg",
+        "image": "https://my.gov.sa/files/agency_files/kze4y6qjwmxd51pc3mw8w90hqqo8gm81.png",
         "isActive": true 
     },
     {
@@ -140,7 +140,7 @@
     {
         "id": "su",
         "name": "جامعة شقراء",
-        "image": "https://saudipedia.com/saudipedia/uploads/images/2023/07/22/59810.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/ar/e/ef/Su.edu.sa.jpg",
         "isActive": true 
     },
     {
@@ -152,13 +152,13 @@
     {
         "id": "seu",
         "name": "الجامعة السعودية الإلكترونية",
-        "image": "https://saudipedia.com/saudipedia/uploads/images/2023/07/12/59914.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/ar/c/cb/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9_%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9.png",
         "isActive": true 
     },
     {
         "id": "uj",
         "name": "جامعة جدة",
-        "image": "https://saudipedia.com/saudipedia/uploads/images/2023/07/22/thumbs/400x400/59869.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/ar/f/f6/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%AC%D8%AF%D8%A9.png",
         "isActive": true 
     },
     {

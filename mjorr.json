@@ -110,6 +110,26 @@
 
    { "id": "science_track", "name": "مسار علمي", "icon": "library-outline" },
   { "id": "general_track", "name": "مسار عام", "icon": "layers-outline" },
-  { "id": "botany", "name": "علم النبات", "icon": "leaf-outline" }
+  { "id": "botany", "name": "علم النبات", "icon": "leaf-outline" },
+{
+  "id": "information_systems",
+  "name": "نظم معلومات",
+  "icon": "analytics-outline"
+},
+{
+  "id": "applied_economics",
+  "name": "اقتصاد تطبيقي",
+  "icon": "cash-outline"
+},
+{
+  "id": "marketing_technology_innovation",
+  "name": "تقنية التسويق و الإبتكار",
+  "icon": "bulb-outline"
+},
+{
+  "id": "physics_energy_technologies",
+  "name": "فيزياء وتقنيات الطاقة",
+  "icon": "flash-outline"
+}
 
 ]

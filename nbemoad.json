@@ -1,20 +1,47 @@
 [
   {
-  "id": "prepLNGT101",
-  "name": "لغة إنجليزية 1",
-  "hours": 4,
-  "semester": 1,
-  "major": "prep_year",
-  "is_required": true,
-  "icon": "language-outline"
-},
-    {
-  "id": "prepBCHM111",
-  "name": "أساسيات الكيمياء الحيوية",
-  "hours": 2,
-  "semester": 2,
-  "major": "prep_year",
-  "is_required": true,
-  "icon": "language-outline"
-}
-  ]
+    "id": "prepLNGT101",
+    "name": "لغة إنجليزية 1",
+    "hours": 4,
+    "semester": 1,
+    "major": "prep_year",
+    "is_required": true,
+    "icon": "language-outline"
+  },
+  {
+    "id": "prepBCHM111",
+    "name": "أساسيات الكيمياء الحيوية",
+    "hours": 2,
+    "semester": 1,
+    "major": "prep_year",
+    "is_required": true,
+    "icon": "flask-outline"
+  },
+  {
+    "id": "prepFCOM111",
+    "name": "الصحة العامة",
+    "hours": 2,
+    "semester": 1,
+    "major": "prep_year",
+    "is_required": true,
+    "icon": "heart-outline"
+  },
+  {
+    "id": "prepISLS105",
+    "name": "أخلاقيات المهنة",
+    "hours": 2,
+    "semester": 1,
+    "major": "prep_year",
+    "is_required": true,
+    "icon": "shield-checkmark-outline"
+  },
+  {
+    "id": "prepGNCR100",
+    "name": "المهارات الجامعية",
+    "hours": 2,
+    "semester": 1,
+    "major": "prep_year",
+    "is_required": true,
+    "icon": "school-outline"
+  }
+]

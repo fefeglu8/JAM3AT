@@ -1,0 +1,124 @@
+{
+  "semesters": [
+    {
+      "semester_id": "nbu_2026_2",
+      "label": "الفصل الدراسي الثاني",
+      "start_date": "2026-01-18",
+      "end_date": "2026-06-25",
+      "start_h": "1447-07-29",
+      "end_h": "1448-01-10"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "add_drop",
+      "semester_id": "nbu_2026_2",
+      "title": "الحذف والإضافة عن طريق الكليات",
+      "event_type": "academic",
+      "start_g": "2026-01-18",
+      "end_g": "2026-01-24",
+      "start_h": "1447-07-29",
+      "end_h": "1447-08-05"
+    },
+    {
+      "event_id": "withdraw_semester",
+      "semester_id": "nbu_2026_2",
+      "title": "الاعتذار عن دراسة الفصل الدراسي الثاني",
+      "event_type": "academic",
+      "start_g": "2026-02-08",
+      "end_g": "2026-05-16",
+      "start_h": "1447-08-20",
+      "end_h": "1447-11-29"
+    },
+    {
+      "event_id": "withdraw_course",
+      "semester_id": "nbu_2026_2",
+      "title": "الانسحاب من مقرر دراسي",
+      "event_type": "academic",
+      "start_g": "2026-02-08",
+      "end_g": "2026-06-06",
+      "start_h": "1447-08-20",
+      "end_h": "1447-12-20"
+    },
+    {
+      "event_id": "low_gpa_processing",
+      "semester_id": "nbu_2026_2",
+      "title": "معالجة حالات الطلبة المنخفضين عن الدراسة على النظام الإلكتروني",
+      "event_type": "admin",
+      "start_g": "2026-02-15",
+      "end_g": "2026-02-21",
+      "start_h": "1447-08-27",
+      "end_h": "1447-09-04"
+    },
+    {
+      "event_id": "founding_day",
+      "semester_id": "nbu_2026_2",
+      "title": "إجازة يوم التأسيس",
+      "event_type": "holiday",
+      "start_g": "2026-02-22",
+      "end_g": "2026-02-22",
+      "start_h": "1447-09-05",
+      "end_h": "1447-09-05"
+    },
+    {
+      "event_id": "eid_fitr",
+      "semester_id": "nbu_2026_2",
+      "title": "إجازة عيد الفطر المبارك",
+      "event_type": "holiday",
+      "start_g": "2026-02-27",
+      "end_g": "2026-03-28",
+      "start_h": "1447-09-10",
+      "end_h": "1447-10-09"
+    },
+    {
+      "event_id": "ejaza1m",
+      "semester_id": "nbu_2026_2",
+      "title": "إجازة مطولة",
+      "event_type": "holiday",
+      "start_g": "2026-04-30",
+      "end_g": "2026-04-30",
+      "start_h": "1447-11-13",
+      "end_h": "1447-11-13"
+    },
+    {
+      "event_id": "re_registration",
+      "semester_id": "nbu_2026_2",
+      "title": "استقبال طلبات إعادة القيد للطلبة المنقطعين",
+      "event_type": "admin",
+      "start_g": "2026-05-03",
+      "end_g": "2026-05-09",
+      "start_h": "1447-11-16",
+      "end_h": "1447-11-22"
+    },
+    {
+      "event_id": "eid_adha",
+      "semester_id": "nbu_2026_2",
+      "title": "إجازة عيد الأضحى المبارك",
+      "event_type": "holiday",
+      "start_g": "2026-05-22",
+      "end_g": "2026-06-01",
+      "start_h": "1447-12-05",
+      "end_h": "1447-12-15"
+    },
+    {
+      "event_id": "final_exams",
+      "semester_id": "nbu_2026_2",
+      "title": "الاختبارات النهائية",
+      "event_type": "exams",
+      "start_g": "2026-06-14",
+      "end_g": "2026-06-25",
+      "start_h": "1447-12-28",
+      "end_h": "1448-01-10"
+    },
+    {
+      "event_id": "academic_year_end",
+      "semester_id": "nbu_2026_2",
+      "title": "نهاية العام الدراسي",
+      "event_type": "milestone",
+      "start_g": "2026-06-25",
+      "end_g": "2026-06-25",
+      "start_h": "1448-01-10",
+      "end_h": "1448-01-10"
+    }
+  ]
+}

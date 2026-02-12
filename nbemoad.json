@@ -43,5 +43,50 @@
     "major": "prep_year",
     "is_required": true,
     "icon": "school-outline"
+  },
+    {
+    "id": "prepSTAT201",
+    "name": "إحصاء حيوي",
+    "hours": 2,
+    "semester": 2,
+    "major": "prep_year",
+    "is_required": true,
+    "icon": "bar-chart-outline"
+  },
+  {
+    "id": "prepBIOL101",
+    "name": "مقدمة في الأحياء",
+    "hours": 2,
+    "semester": 2,
+    "major": "prep_year",
+    "is_required": true,
+    "icon": "leaf-outline"
+  },
+  {
+    "id": "prepMEDT104",
+    "name": "مصطلحات طبية (إنجليزي)",
+    "hours": 2,
+    "semester": 2,
+    "major": "prep_year",
+    "is_required": true,
+    "icon": "medkit-outline"
+  },
+  {
+    "id": "prepAI100",
+    "name": "الذكاء الاصطناعي",
+    "hours": 2,
+    "semester": 2,
+    "major": "prep_year",
+    "is_required": true,
+    "icon": "sparkles-outline"
+  },
+  {
+    "id": "prepLNGT102",
+    "name": "اللغة الإنجليزية 2",
+    "hours": 4,
+    "semester": 2,
+    "major": "prep_year",
+    "is_required": true,
+    "icon": "language-outline"
   }
 ]

@@ -1,0 +1,20 @@
+[
+  {
+  "id": "prepLNGT101",
+  "name": "لغة إنجليزية 1",
+  "hours": 4,
+  "semester": 1,
+  "major": "prep_year",
+  "is_required": true,
+  "icon": "language-outline"
+},
+    {
+  "id": "prepBCHM111",
+  "name": "أساسيات الكيمياء الحيوية",
+  "hours": 2,
+  "semester": 2,
+  "major": "prep_year",
+  "is_required": true,
+  "icon": "language-outline"
+}
+  ]

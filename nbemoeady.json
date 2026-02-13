@@ -13,6 +13,7 @@
           "semester": 2,
           "appointments": [  {
               "id": "nur_s1_mid",
+      "course_id": "prepMEDT104",
               "title": "كويز الاغراض الصحية",
               "type": "exam",
               "date": "2026-02-16",

@@ -6,18 +6,18 @@
         {
           "semester": 1,
           "appointments": [
-            {
+          
+          ]
+        },
+        {
+          "semester": 2,
+          "appointments": [  {
               "id": "nur_s1_mid",
               "title": "كويز الاغراض الصحية",
               "type": "exam",
               "date": "2026-02-16",
               "notes": "لا توجد ملاحظات او تحديد للوحدات",
-            }
-          ]
-        },
-        {
-          "semester": 2,
-          "appointments": []
+            }]
         }
       ]
     }

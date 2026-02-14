@@ -3,7 +3,7 @@
     "id": "prepLNGT101",
     "name": "لغة إنجليزية 1",
     "hours": 4,
-    "semester": 1,
+    "semester": 2,
     "major": "prep_year",
     "is_required": true,
     "icon": "language-outline"
@@ -12,7 +12,7 @@
     "id": "prepBCHM111",
     "name": "أساسيات الكيمياء الحيوية",
     "hours": 2,
-    "semester": 1,
+    "semester": 2,
     "major": "prep_year",
     "is_required": true,
     "icon": "flask-outline"
@@ -21,7 +21,7 @@
     "id": "prepFCOM111",
     "name": "الصحة العامة",
     "hours": 2,
-    "semester": 1,
+    "semester": 2,
     "major": "prep_year",
     "is_required": true,
     "icon": "heart-outline"
@@ -30,7 +30,7 @@
     "id": "prepISLS105",
     "name": "أخلاقيات المهنة",
     "hours": 2,
-    "semester": 1,
+    "semester": 2,
     "major": "prep_year",
     "is_required": true,
     "icon": "shield-checkmark-outline"
@@ -39,7 +39,7 @@
     "id": "prepGNCR100",
     "name": "المهارات الجامعية",
     "hours": 2,
-    "semester": 1,
+    "semester": 2,
     "major": "prep_year",
     "is_required": true,
     "icon": "school-outline"
@@ -48,7 +48,7 @@
     "id": "prepSTAT201",
     "name": "إحصاء حيوي",
     "hours": 2,
-    "semester": 2,
+    "semester": 1,
     "major": "prep_year",
     "is_required": true,
     "icon": "bar-chart-outline"
@@ -57,7 +57,7 @@
     "id": "prepBIOL101",
     "name": "مقدمة في الأحياء",
     "hours": 2,
-    "semester": 2,
+    "semester": 1,
     "major": "prep_year",
     "is_required": true,
     "icon": "leaf-outline"
@@ -66,7 +66,7 @@
     "id": "prepMEDT104",
     "name": "مصطلحات طبية (إنجليزي)",
     "hours": 2,
-    "semester": 2,
+    "semester": 1,
     "major": "prep_year",
     "is_required": true,
     "icon": "medkit-outline"
@@ -75,7 +75,7 @@
     "id": "prepAI100",
     "name": "الذكاء الاصطناعي",
     "hours": 2,
-    "semester": 2,
+    "semester": 1,
     "major": "prep_year",
     "is_required": true,
     "icon": "sparkles-outline"
@@ -84,7 +84,7 @@
     "id": "prepLNGT102",
     "name": "اللغة الإنجليزية 2",
     "hours": 4,
-    "semester": 2,
+    "semester": 1,
     "major": "prep_year",
     "is_required": true,
     "icon": "language-outline"

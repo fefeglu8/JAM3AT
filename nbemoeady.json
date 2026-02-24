@@ -42,7 +42,33 @@
         },
         {
           "semester": 2,
-          "appointments": [   ]
+          "appointments": [ 
+                 {
+  "id": "prepISLS105_mid",
+  "course_id": "prepISLS105",
+  "title": "أخلاقيات المهنة",
+  "type": "exam",
+  "date": "2026-04-12",
+   "notes": "لا توجد ملاحظات او تحديد للوحدات",
+},   
+                             {
+  "id": "prepGNCR100_mid",
+  "course_id": "prepGNCR100",
+  "title": "أخلاقيات المهنة",
+  "type": "exam",
+  "date": "2026-04-14",
+   "notes": "لا توجد ملاحظات او تحديد للوحدات",
+},   
+            {
+  "id": "prepLNGT101_mid",
+  "course_id": "prepLNGT101",
+  "title": "ميد اللغة الإنجليزية 1",
+  "type": "exam",
+  "date": "2026-04-15",
+   "notes": "لا توجد ملاحظات او تحديد للوحدات",
+}
+          
+          ]
         }
       ]
     }

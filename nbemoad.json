@@ -6,7 +6,9 @@
     "semester": 2,
     "major": "prep_year",
     "is_required": true,
-    "icon": "language-outline"
+ "icon": "language-outline",
+  "absence_percentage": 0.6
+
   },
   {
     "id": "prepBCHM111",
@@ -15,7 +17,8 @@
     "semester": 2,
     "major": "prep_year",
     "is_required": true,
-    "icon": "flask-outline"
+    "icon": "flask-outline",
+  "absence_percentage": 2.775
   },
   {
     "id": "prepFCOM111",
@@ -24,7 +27,8 @@
     "semester": 2,
     "major": "prep_year",
     "is_required": true,
-    "icon": "heart-outline"
+    "icon": "heart-outline",
+      "absence_percentage": 5.6
   },
   {
     "id": "prepISLS105",
@@ -33,7 +37,8 @@
     "semester": 2,
     "major": "prep_year",
     "is_required": true,
-    "icon": "shield-checkmark-outline"
+    "icon": "shield-checkmark-outline",
+      "absence_percentage": 5.55
   },
   {
     "id": "prepGNCR100",
@@ -42,7 +47,8 @@
     "semester": 2,
     "major": "prep_year",
     "is_required": true,
-    "icon": "school-outline"
+    "icon": "school-outline",
+      "absence_percentage": 5.6
   },
     {
     "id": "prepSTAT201",
@@ -51,7 +57,8 @@
     "semester": 1,
     "major": "prep_year",
     "is_required": true,
-    "icon": "bar-chart-outline"
+    "icon": "bar-chart-outline",
+      "absence_percentage": 5.6
   },
   {
     "id": "prepBIOL101",

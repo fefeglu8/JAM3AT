@@ -1,5 +1,6 @@
 {
-  "semesters": [
+   "nbu": {
+    "semesters": [
     {
       "semester_id": "nbu_2026_2",
       "label": "الفصل الدراسي الثاني",
@@ -8,7 +9,7 @@
       "start_h": "1447-07-29",
       "end_h": "1448-01-10"
     }
-  ],
+    ],
   "events": [
     {
       "event_id": "add_drop",

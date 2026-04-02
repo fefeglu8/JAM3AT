@@ -48,7 +48,7 @@
     "major": "prep_year",
     "is_required": true,
     "icon": "school-outline",
-      "absence_percentage": 5.6
+      "absence_percentage": 5.55
   },
     {
     "id": "prepSTAT201",

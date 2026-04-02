@@ -18,7 +18,7 @@
     "major": "prep_year",
     "is_required": true,
     "icon": "flask-outline",
-  "absence_percentage": 2.78
+  "absence_percentage": 2.7833333333
   },
   {
     "id": "prepFCOM111",

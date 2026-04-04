@@ -57,7 +57,8 @@
     "semester": 1,
     "major": "prep_year",
     "is_required": true,
-    "icon": "bar-chart-outline"
+    "icon": "bar-chart-outline",
+      "absence_percentage": 5.55
   },
   {
     "id": "prepBIOL101",
@@ -66,7 +67,8 @@
     "semester": 1,
     "major": "prep_year",
     "is_required": true,
-    "icon": "leaf-outline"
+    "icon": "leaf-outline",
+  "absence_percentage": 2.7833333333
   },
   {
     "id": "prepMEDT104",
@@ -75,7 +77,8 @@
     "semester": 1,
     "major": "prep_year",
     "is_required": true,
-    "icon": "medkit-outline"
+    "icon": "medkit-outline",
+  "absence_percentage": 2.7833333333
   },
   {
     "id": "prepAI100",
@@ -84,7 +87,8 @@
     "semester": 1,
     "major": "prep_year",
     "is_required": true,
-    "icon": "sparkles-outline"
+    "icon": "sparkles-outline",
+      "absence_percentage": 5.55
   },
   {
     "id": "prepLNGT102",
@@ -93,6 +97,7 @@
     "semester": 1,
     "major": "prep_year",
     "is_required": true,
-    "icon": "language-outline"
+    "icon": "language-outline",
+  "absence_percentage": 0.60
   }
 ]
